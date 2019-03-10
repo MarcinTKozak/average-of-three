@@ -3,7 +3,7 @@ application that reads three integers from user and prints their average.
 */
 
 import java.util.Scanner;
-public class orange {
+public class Orange {
 
 	public static void main(String[] args) {
 		
